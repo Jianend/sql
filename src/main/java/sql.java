@@ -6,5 +6,7 @@ public class sql {
     public static void main(String[] args)  throws SQLException {
         Driver driver = new Driver();
         String url ="jdbc://localhost:3306/lanqiao";
+
+
     }
 }
